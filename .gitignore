@@ -25,3 +25,7 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Doesn't make any sense, so it's not necessary.
+.DS_Store
+.idea/
